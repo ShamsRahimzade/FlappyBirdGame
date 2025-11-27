@@ -1,0 +1,16 @@
+C:\Users\rehim\OneDrive\Desktop\Flappy Bird Game\Flappy Bird Game\bin\Debug\Flappy Bird Game.exe.config
+C:\Users\rehim\OneDrive\Desktop\Flappy Bird Game\Flappy Bird Game\bin\Debug\Flappy Bird Game.exe
+C:\Users\rehim\OneDrive\Desktop\Flappy Bird Game\Flappy Bird Game\bin\Debug\Flappy Bird Game.pdb
+C:\Users\rehim\OneDrive\Desktop\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy Bird Game.csproj.AssemblyReference.cache
+C:\Users\rehim\OneDrive\Desktop\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy_Bird_Game.Form1.resources
+C:\Users\rehim\OneDrive\Desktop\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy_Bird_Game.Properties.Resources.resources
+C:\Users\rehim\OneDrive\Desktop\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy Bird Game.csproj.GenerateResource.cache
+C:\Users\rehim\OneDrive\Desktop\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy Bird Game.csproj.CoreCompileInputs.cache
+C:\Users\rehim\OneDrive\Desktop\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy Bird Game.exe
+C:\Users\rehim\OneDrive\Desktop\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy Bird Game.pdb
+C:\Users\rehim\OneDrive\Desktop\Flappy Bird Game\Flappy Bird Game\bin\Debug\az-Latn-AZ\Flappy Bird Game.resources.dll
+C:\Users\rehim\OneDrive\Desktop\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy_Bird_Game.Form1.az-Latn-AZ.resources
+C:\Users\rehim\OneDrive\Desktop\Flappy Bird Game\Flappy Bird Game\obj\Debug\az-Latn-AZ\Flappy Bird Game.resources.dll
+C:\Users\rehim\OneDrive\Desktop\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy_Bird_Game.Form1.ksf.resources
+C:\Users\rehim\OneDrive\Desktop\Flappy Bird Game\Flappy Bird Game\obj\Debug\ksf\Flappy Bird Game.resources.dll
+C:\Users\rehim\OneDrive\Desktop\Flappy Bird Game\Flappy Bird Game\bin\Debug\ksf\Flappy Bird Game.resources.dll
